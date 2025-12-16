@@ -1,0 +1,19 @@
+body { 
+    background:#f4f7fb; 
+    color:#222;
+ }
+.navbar.bg-primary { 
+    background: linear-gradient(90deg,#0d6efd,#0b5ed7); 
+}
+.card {
+     border-radius:12px;
+     }
+.login-page .card { 
+    border: none; 
+}
+.btn-primary {
+     background:#1e66b3; 
+     border-color:#155b9d; 
+    }
+.table-striped>tbody>tr:nth-of-type(odd)>* { 
+    background-color: #d3d2d2; }
